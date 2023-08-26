@@ -46,10 +46,6 @@ Explore and Create: Use the app to explore smoothie recipes, create your own rec
 
 We welcome your feedback and contributions to make the Supa Smoothie app even better. Feel free to create issues, suggest new features, or submit pull requests to help improve the app for everyone.
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 Have fun exploring and creating delicious smoothie recipes with Supa Smoothie! If you have any questions or need assistance, feel free to reach out to our community or the app's maintainers. Enjoy your smoothie journey!
